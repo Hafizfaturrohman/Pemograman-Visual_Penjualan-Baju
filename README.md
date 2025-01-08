@@ -16,7 +16,7 @@ Pada tampilan ini, pengguna dapat melakukan transaksi penjualan. Berikut adalah 
 
 ## Tampilan Data Barang
 
-(![WhatsApp Image 2025-01-08 at 11 22 46](https://github.com/user-attachments/assets/5d6b54d0-435b-49e6-b689-d94d2451e773)
+![WhatsApp Image 2025-01-08 at 11 22 46](https://github.com/user-attachments/assets/5d6b54d0-435b-49e6-b689-d94d2451e773)
 
 Tampilan ini digunakan untuk mengelola data barang. Elemen-elemen yang terdapat di sini meliputi:
 - **ID Barang**: Kode unik untuk setiap barang.
