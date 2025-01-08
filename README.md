@@ -4,7 +4,7 @@ Aplikasi Penjualan adalah program yang dirancang untuk memudahkan proses transak
 
 ## Tampilan Penjualan
 
-![WhatsApp Image 2025-01-08 at 11 23 02](https://github.com/user-attachments/assets/860a3791-751a-4e2e-a4b1-19b77c33ba16
+![WhatsApp Image 2025-01-08 at 11 23 02](https://github.com/user-attachments/assets/860a3791-751a-4e2e-a4b1-19b77c33ba16)
 
 Pada tampilan ini, pengguna dapat melakukan transaksi penjualan. Berikut adalah elemen-elemen yang terdapat dalam tampilan ini:
 - **No Transaksi**: Nomor unik untuk setiap transaksi.
