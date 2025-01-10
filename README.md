@@ -32,5 +32,4 @@ Tampilan ini digunakan untuk mengelola data barang. Elemen-elemen yang terdapat 
 ## Instalasi
 1. Clone repositori ini.
 2. Jalankan aplikasi menggunakan [platform yang sesuai].
-3. ![barcode (4)](https://github.com/user-attachments/assets/491a5811-814c-49fd-8a4c-f741a1e88029)
 
